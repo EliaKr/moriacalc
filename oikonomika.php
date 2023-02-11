@@ -5,7 +5,7 @@ p {text-align: center; font-family:verdana; color: white;}
 p2 {text-align: center; font-family:verdana; color: white; font-size: 12px;}
 b {text-align: center; font-family:verdana; color: white; line-height: 40px;}
 span {font-weight: bold; font-family:verdana; color: white; font-size: 24px;}
-div {text-align: center; vertical-align: middle; padding: 20% 0;}
+div {text-align: center; vertical-align: middle; padding: 10% 0;}
 form {overflow: hidden;}
 input {text-align: right; font-weight: bold; font-size: 16px;}
 
